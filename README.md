@@ -1,5 +1,4 @@
-# Bikeshop-Manager-with-SQL-Server-DBS
-# ĐỀ ĐỒ ÁN SỐ 3 - HỆ THỐNG QUẢN LÍ CHO CỬA HÀNG XE MÁY
+# Đồ án số 3: Hệ thống quản lý cho cửa hàng xe máy
 
 ## 1.) Thông tin đồ án
 - Ngôn ngữ sử dụng: Java
