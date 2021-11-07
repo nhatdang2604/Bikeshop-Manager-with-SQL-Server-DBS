@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=nMvsSakjM-k
 
 ### c.) Chạy script để tạo database
 - Ở folder release, em đã để 1 script có tên là makeDBS.txt, thầy chỉ cần copy và paste cho chạy trên SQL Server của thầy là được
-- LƯU Ý CỰC KÌ QUAN TRỌNG:
+- **LƯU Ý CỰC KÌ QUAN TRỌNG:**
     + Script của em sẽ tìm và phát hiện NẾU CÓ BẤT KÌ 1 DATABASE NÀO TÊN LÀ QUANLYCUAHANGXEMAY CÓ SẴN, NÓ SẼ DROP DATABASE ĐẤY NGAY VÀ TẠO MỚI
     + Vậy nên nếu thầy có 1 database tên là QUANLYCUAHANGXEMAY, thầy nên đổi cái tên trong script của em thành QUANLYCUAHANGXEMAY_FIX chẳng hạn, và nhớ là thay đổi luôn cái database name trên hibernate.cfg.xml
 ### d.) Sau khi tạo thành công database, thầy đã có thể chạy file release.jar nằm trong folder release để có thể sử dụng ứng dụng của em, chúc thầy thành công ạ.
